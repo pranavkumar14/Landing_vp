@@ -1,0 +1,6 @@
+devel_space: /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel
+install: false
+install_space: /home/pranavkumar14/Documents/aerial_robo/projet_ros/install
+profile: default
+source_space: /home/pranavkumar14/Documents/aerial_robo/projet_ros/src
+workspace: /home/pranavkumar14/Documents/aerial_robo/projet_ros

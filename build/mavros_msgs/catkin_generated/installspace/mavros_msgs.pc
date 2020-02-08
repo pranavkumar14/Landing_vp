@@ -1,0 +1,8 @@
+prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.26.3
+Cflags: -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/install/include
+Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/install/lib 
+Requires: geometry_msgs sensor_msgs geographic_msgs message_runtime std_msgs

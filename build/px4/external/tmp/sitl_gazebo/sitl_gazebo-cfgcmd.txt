@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/pranavkumar14/Documents/aerial_robo/projet_ros/install;-DSEND_VISION_ESTIMATION_DATA=ON;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

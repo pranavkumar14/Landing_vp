@@ -1,0 +1,11 @@
+[31m[1mCMake Error[0m at /home/pranavkumar14/Documents/aerial_robo/projet_ros/src/Firmware/cmake/px4_add_module.cmake:135 (elseif):
+  given arguments:
+
+    "DYNAMIC" "AND" "MAIN" "AND" "(" "STREQUAL" "posix" ")"
+
+  Unknown arguments specified
+[36mCall Stack (most recent call first):[0m
+  src/lib/cdev/test/CMakeLists.txt:34 (px4_add_module)
+
+
+make: *** [cmake_check_build_system] Error 1

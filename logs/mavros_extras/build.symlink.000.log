@@ -1,0 +1,6 @@
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/lib/libmavros_extras.so
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/lib/pkgconfig/mavros_extras.pc
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/lib/mavros_extras/copter_visualization
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake

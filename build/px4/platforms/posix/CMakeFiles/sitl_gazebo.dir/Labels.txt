@@ -1,0 +1,13 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/platforms/posix/CMakeFiles/sitl_gazebo
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule

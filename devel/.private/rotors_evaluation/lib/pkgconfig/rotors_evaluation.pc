@@ -1,0 +1,8 @@
+prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_evaluation
+
+Name: rotors_evaluation
+Description: Description of rotors_evaluation
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_evaluation/lib 
+Requires: 

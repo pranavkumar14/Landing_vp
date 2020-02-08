@@ -1,0 +1,8 @@
+prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/install
+
+Name: mav_state_machine_msgs
+Description: Description of mav_state_machine_msgs
+Version: 0.0.0
+Cflags: -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/install/include
+Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/install/lib 
+Requires: message_runtime

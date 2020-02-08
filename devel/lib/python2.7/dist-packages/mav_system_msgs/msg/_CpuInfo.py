@@ -1,0 +1,1 @@
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/mav_system_msgs/lib/python2.7/dist-packages/mav_system_msgs/msg/_CpuInfo.py

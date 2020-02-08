@@ -1,0 +1,1 @@
+/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py

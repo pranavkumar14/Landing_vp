@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libsystemcmds__motor_ramp.a  CMakeFiles/systemcmds__motor_ramp.dir/motor_ramp.cpp.o
+/usr/bin/ranlib /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libsystemcmds__motor_ramp.a
