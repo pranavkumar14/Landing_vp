@@ -1,8 +1,0 @@
-prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/libmavconn
-
-Name: libmavconn
-Description: Description of libmavconn
-Version: 0.26.3
-Cflags: -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/src/mavros/libmavconn/include -I/usr/include -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/include
-Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/libmavconn/lib -lmavconn /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-Requires: 

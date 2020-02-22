@@ -1,1 +1,0 @@
-/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake

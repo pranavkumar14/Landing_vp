@@ -1,0 +1,13 @@
+#!/usr/bin/env sh
+# generated from catkin/python/catkin/environment_cache.py
+
+# based on a snapshot of the environment before and after calling the setup script
+# it emulates the modifications of the setup script without recurring computations
+
+# new environment variables
+
+# modified environment variables
+export CMAKE_PREFIX_PATH="/home/varun/project_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD="/home/varun/project_ws/build/catkin_tools_prebuild"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/varun/project_ws/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/varun/project_ws/build/catkin_tools_prebuild:/home/varun/new_ws/src/bebop2_drl_landing/bebop_dronemsgsros:/home/varun/new_ws/src/bebop2_drl_landing/bebop_keyboard:/home/varun/new_ws/src/bebop2_drl_landing/collision_avoid:/home/varun/new_ws/src/bebop2_drl_landing/drl-landing_modified/Environment:/home/varun/new_ws/src/robo:/home/varun/ros_ws/src/mav_comm/mav_comm:/home/varun/ros_ws/src/mav_comm/mav_msgs:/home/varun/ros_ws/src/mav_comm/mav_planning_msgs:/home/varun/ros_ws/src/mav_comm/mav_state_machine_msgs:/home/varun/ros_ws/src/mav_comm/mav_system_msgs:/home/varun/ros_ws/src/mavlink:/home/varun/ros_ws/src/mavros/libmavconn:/home/varun/ros_ws/src/mavros/mavros_msgs:/home/varun/ros_ws/src/mavros/mavros:/home/varun/ros_ws/src/mavros/mavros_extras:/home/varun/ros_ws/src/Firmware:/home/varun/ros_ws/src/rotors_simulator/rotors_comm:/home/varun/ros_ws/src/rotors_simulator/rotors_control:/home/varun/ros_ws/src/rotors_simulator/rotors_description:/home/varun/ros_ws/src/rotors_simulator/rotors_evaluation:/home/varun/ros_ws/src/rotors_simulator/rotors_gazebo_plugins:/home/varun/ros_ws/src/rotors_simulator/rotors_gazebo:/home/varun/ros_ws/src/rotors_simulator/rotors_hil_interface:/home/varun/ros_ws/src/rotors_simulator/rotors_joy_interface:/home/varun/ros_ws/src/rotors_simulator/rotors_simulator:/home/varun/ros_ws/src/rotors_simulator/rqt_rotors:/home/varun/ros_ws/src/mavros/test_mavros:/home/varun/tutorial_ws/src/aruco_ros/aruco:/home/varun/tutorial_ws/src/aruco_ros/aruco_msgs:/home/varun/tutorial_ws/src/aruco_ros/aruco_ros:/home/varun/tutorial_ws/src/husky_highlevel_controller:/home/varun/tutorial_ws/src/talker_listener:/home/varun/tutorial_ws/src/teleop_twist_keyboard:/home/varun/tutorial_ws/src/ROS-WC19/turtlesim:/opt/ros/melodic/share"

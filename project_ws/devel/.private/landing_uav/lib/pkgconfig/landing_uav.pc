@@ -1,0 +1,8 @@
+prefix=/home/varun/project_ws/devel/.private/landing_uav
+
+Name: landing_uav
+Description: Description of landing_uav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/varun/project_ws/devel/.private/landing_uav/lib 
+Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/install
-
-Name: rqt_rotors
-Description: Description of rqt_rotors
-Version: 2.2.3
-Cflags: 
-Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/install/lib 
-Requires: mavros_msgs rospy rqt_gui rqt_gui_py

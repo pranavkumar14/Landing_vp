@@ -1,0 +1,6 @@
+devel_space: /home/varun/project_ws/devel
+install: false
+install_space: /home/varun/project_ws/install
+profile: default
+source_space: /home/varun/project_ws/src
+workspace: /home/varun/project_ws

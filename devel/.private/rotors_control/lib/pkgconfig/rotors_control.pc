@@ -1,8 +1,0 @@
-prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_control
-
-Name: rotors_control
-Description: Description of rotors_control
-Version: 2.2.3
-Cflags: -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/src/rotors_simulator/rotors_control/include
-Libs: -L/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_control/lib -llee_position_controller -lroll_pitch_yawrate_thrust_controller
-Requires: geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs

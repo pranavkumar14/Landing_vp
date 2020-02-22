@@ -1,1 +1,0 @@
-/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/msg/WindSpeed.l

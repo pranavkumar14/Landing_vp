@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target offb_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/offb_node.dir/src/offb_node.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/offboard/lib/offboard/offb_node[0m
-[100%] Built target offb_node

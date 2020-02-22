@@ -1,0 +1,4 @@
+Symlinking /home/varun/project_ws/devel/share/offboard/cmake/offboardConfig.cmake
+Symlinking /home/varun/project_ws/devel/share/offboard/cmake/offboardConfig-version.cmake
+Symlinking /home/varun/project_ws/devel/lib/offboard/offb_node
+Symlinking /home/varun/project_ws/devel/lib/pkgconfig/offboard.pc

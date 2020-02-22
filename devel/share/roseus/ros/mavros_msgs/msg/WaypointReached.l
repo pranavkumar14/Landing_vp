@@ -1,1 +1,0 @@
-/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/mavros_msgs/share/roseus/ros/mavros_msgs/msg/WaypointReached.l

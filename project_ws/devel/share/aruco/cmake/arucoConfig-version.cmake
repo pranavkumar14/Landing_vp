@@ -1,0 +1,1 @@
+/home/varun/project_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake

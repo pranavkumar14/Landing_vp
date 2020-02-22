@@ -1,0 +1,1 @@
+/home/varun/project_ws/devel/.private/aruco/lib/pkgconfig/aruco.pc

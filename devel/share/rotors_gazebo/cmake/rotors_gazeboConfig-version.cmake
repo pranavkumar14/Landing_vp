@@ -1,1 +1,0 @@
-/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

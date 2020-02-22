@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+   <include file="$(find px4)/launch/mavros_posix_sitl.launch" >
+           <!-- <arg name="world" value="iris" />  -->
+
+   </include>
+    <include file="$(find aruco_ros)/launch/single.launch" >
+        
+
+   </include>
+   <!-- <include file="$(find husky_gazebo)/launch/spawn_husky.launch"> -->
+           
+   <!-- </include> -->
+
+   <!-- <node name="node" pkg="landing_uav" type="node" output="screen" /> -->
+ 
+</launch>

@@ -1,1 +1,0 @@
-/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h

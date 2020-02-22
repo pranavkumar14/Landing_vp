@@ -1,8 +1,0 @@
-prefix=/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/aruco_msgs
-
-Name: aruco_msgs
-Description: Description of aruco_msgs
-Version: 0.2.4
-Cflags: -I/home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/aruco_msgs/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime geometry_msgs std_msgs

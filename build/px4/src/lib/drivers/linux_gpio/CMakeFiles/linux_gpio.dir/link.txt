@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/liblinux_gpio.a  CMakeFiles/linux_gpio.dir/linux_gpio.cpp.o
-/usr/bin/ranlib /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/liblinux_gpio.a

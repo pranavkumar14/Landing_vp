@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libsystemcmds__top.a  CMakeFiles/systemcmds__top.dir/top.c.o
-/usr/bin/ranlib /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libsystemcmds__top.a

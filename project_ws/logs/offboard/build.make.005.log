@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target offb_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/offb_node.dir/src/offb_node.cpp.o[0m
+[01m[K/home/varun/project_ws/src/offboard/src/offb_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/varun/project_ws/src/offboard/src/offb_node.cpp:33:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kcall_bk[m[K’ was not declared in this scope
+             ("/aruco_single/pose", 10, [01;31m[Kcall_bk[m[K);
+                                        [01;31m[K^~~~~~~[m[K
+[01m[K/home/varun/project_ws/src/offboard/src/offb_node.cpp:33:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kcalloc[m[K’
+             ("/aruco_single/pose", 10, [01;36m[Kcall_bk[m[K);
+                                        [01;36m[K^~~~~~~[m[K
+                                        [32m[Kcalloc[m[K
+CMakeFiles/offb_node.dir/build.make:62: recipe for target 'CMakeFiles/offb_node.dir/src/offb_node.cpp.o' failed
+make[2]: *** [CMakeFiles/offb_node.dir/src/offb_node.cpp.o] Error 1
+CMakeFiles/Makefile2:643: recipe for target 'CMakeFiles/offb_node.dir/all' failed
+make[1]: *** [CMakeFiles/offb_node.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

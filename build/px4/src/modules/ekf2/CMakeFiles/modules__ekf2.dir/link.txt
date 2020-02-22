@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libmodules__ekf2.a  CMakeFiles/modules__ekf2.dir/ekf2_main.cpp.o
-/usr/bin/ranlib /home/pranavkumar14/Documents/aerial_robo/projet_ros/devel/.private/px4/lib/libmodules__ekf2.a
